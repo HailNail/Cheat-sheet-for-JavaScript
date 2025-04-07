@@ -1,0 +1,1 @@
+Interesting, I try to add new file in VS code, and do commit in Github.desktop
